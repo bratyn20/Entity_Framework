@@ -1,0 +1,11 @@
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+\\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
