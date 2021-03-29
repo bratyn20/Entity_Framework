@@ -9,3 +9,17 @@
 \\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
 \\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
 \\tamura.depo.local\users\Zaitsev.Vladimir\Desktop\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
+<<<<<<< HEAD
+=======
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.deps.json
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csprojAssemblyReference.cache
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Entity Framework\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
+>>>>>>> e0cd0c4 (29.04.21)

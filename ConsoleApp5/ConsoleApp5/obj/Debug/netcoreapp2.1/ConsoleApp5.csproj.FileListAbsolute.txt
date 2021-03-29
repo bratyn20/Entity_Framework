@@ -1,0 +1,12 @@
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.deps.json
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.json
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.dev.json
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.dll
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.csprojAssemblyReference.cache
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfo.cs
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.pdb
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.dll
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.pdb
+C:\Entity Framework\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\appsettings.json
